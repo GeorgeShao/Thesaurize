@@ -3,5 +3,8 @@ Java application that uses Thesaurus.com to automatically substitute each word t
 
 **NOTICE:** This application is purely for amusement purposes. It is not sufficiently accurate enough to be used for academic or educational purposes.
 
+**LICENSE**
+See LICENSE.txt for licensing details.
+
 ## Installation Instructions
 Simply download the thesaurize.java file and run it in Eclipse or another IDE of your choice.
