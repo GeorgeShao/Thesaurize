@@ -4,7 +4,7 @@ Java application that uses Thesaurus.com to automatically substitute each word t
 **Development State:**
 Finished, may / may not receive future updates.
 
-**NOTICE:** This application is purely for amusement purposes. It is not sufficiently accurate enough to be used for academic or educational purposes.
+**NOTICE:** This application is purely for amusement purposes. It is not sufficiently accurate enough to be used for academic or educational purposes. (**TL;DR** Don't use this to increase your english essay word count)
 
 ## Installation Instructions
 Simply download the thesaurize.java file and run it in Eclipse or another IDE of your choice.
