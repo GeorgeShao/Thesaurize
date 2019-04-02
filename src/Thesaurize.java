@@ -31,7 +31,7 @@ public class Thesaurize {
 					}
 				}
 				if(!validentry) {
-					String currentCharacterStr = String.valueOf(currentCharacter);  
+					String currentCharacterStr = String.valueOf(currentCharacter);
 					enteredURL = enteredURL.replaceAll(currentCharacterStr, "");
 				}
 			}
@@ -61,13 +61,14 @@ public class Thesaurize {
 					line = br.readLine();
 				}
 				
-				//Extract first word from Thesaurus.com & store them in an array
+				//Extract first word from Thesaurus.com & store it in an array
 				String rest = entirePage.substring(entirePage.indexOf("<a href=\"/browse/") + 17);
 				String word = rest.substring(0, rest.indexOf("\""));
 				
 				word = word.replaceAll("%20", " ");
 				
 				System.out.print(word + " ");
+				
 			}
 		}
 		
