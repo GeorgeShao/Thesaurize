@@ -1,8 +1,6 @@
 # Thesaurize
 Java application that uses Thesaurus.com to automatically substitute each word typed into the console with a synonym.
 
-**Development State:** Finished, may / may not receive future updates.
-
 **NOTICE:** This application is purely for amusement purposes. It is not sufficiently accurate enough to be used for academic or educational purposes. (TL;DR Don't use this to increase your english essay word count)
 
 ## Installation Instructions
